@@ -1,22 +1,21 @@
-import React, { Component } from 'react'
+import React from 'react'
 import notfound from './notfound.jpg'
 
-export default class NewsItem extends Component {
-  render() {
-    let { imageUrl, title, description, newsUrl, author, date, source, badgeColor } = this.props;
-    return (
-      <div className="card">
-        <img src={imageUrl == null ? notfound : imageUrl} className="card-img-top" alt="..." />
-        <span className={`position-absolute top-0 translate-middle badge rounded-pill bg-${badgeColor}`} style={{zIndex: 1, left: '90%'}}>
-          {source}
-        </span>
-        <div className="card-body">
-          <h5 className="card-title">{title}</h5>
-          <p className="card-text" style={{ wordBreak: 'break-word' }}>{description}</p>
-          <a href={newsUrl} target='_blank' rel='noreferrer' className="btn btn-sm btn-dark">Read More</a>
-          <p className="card-text my-3"><small className="text-muted">By {!author ? 'Unknown author' : author} on {!date ? 'unknown date' : new Date(date).toGMTString()}</small></p>
-        </div>
+const NewsItem = (props) => {
+  return (
+    <div className="card">
+      <span className={`badge rounded-pill bg-${props.badgeColor}`} style={{ position: 'absolute', top: '-10px', right: '0' }}>
+        {props.source}
+      </span>
+      <img src={props.imageUrl == null ? notfound : props.imageUrl} className="card-img-top" alt="..." />
+      <div className="card-body">
+        <h5 className="card-title">{props.title}</h5>
+        <p className="card-text" style={{ wordBreak: 'break-word' }}>{props.description}</p>
+        <a href={props.newsUrl} target='_blank' rel='noreferrer' className="btn btn-sm btn-dark">Read More</a>
+        <p className="card-text my-3"><small className="text-muted">By {!props.author ? 'Unknown author' : props.author} on {!props.date ? 'unknown date' : new Date(props.date).toGMTString()}</small></p>
       </div>
-    )
-  }
+    </div>
+  )
 }
+
+export default NewsItem;
