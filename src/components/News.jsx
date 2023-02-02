@@ -5,26 +5,26 @@ import PropTypes from 'prop-types'
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const News = (props) => {
-
-    const [articles, setArticles] = useState([]);
-    const [loading, setloading] = useState(false);
-    const [page, setPage] = useState(1);
-    const [totalResults, setTotalResults] = useState(0);
-  useEffect(() => {
+  const [articles, setArticles] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [page, setPage] = useState(1)
+  const [totalResults, setTotalResults] = useState(0)
+  
+  useEffect(async () => {
     props.setProgress(30);
-    setloading(true);
+    setLoading(true);
     const url = `https://newsapi.org/v2/top-headlines?category=${props.category}&country=${props.country}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
     let rawData = await fetch(url);
     let parsedData = await rawData.json();
     setArticles(parsedData.articles);
-    setLoading(false);
     setTotalResults(parsedData.totalResults);
+    setLoading(false);
     props.setProgress(100);
   }, [])
-  
+
   const fetchMoreData = async () => {
+    const url = `https://newsapi.org/v2/top-headlines?category=${props.category}&country=${props.country}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
     setPage(page + 1);
-    const url = `https://newsapi.org/v2/top-headlines?category=${props.category}&country=${props.country}&apiKey=${props.apiKey}&page=${page}&pageSize=${props.pageSize}`;
     let rawData = await fetch(url);
     let parsedData = await rawData.json();
     setArticles(articles.concat(parsedData.articles));
@@ -32,7 +32,7 @@ const News = (props) => {
   }
   return (
     <>
-      <h2 className='text-center' style={{ margin: '35px 0px' }}>Breaking News</h2>
+      <h2 className='text-center' style={{ marginTop: '90px' }}>Breaking News</h2>
       <h4 className='text-center'>{props.category}</h4>
       <br />
       <br />
@@ -40,7 +40,7 @@ const News = (props) => {
       {loading && <Loader />}
       <InfiniteScroll
         dataLength={articles.length}
-        next={this.fetchMoreData}
+        next={fetchMoreData}
         hasMore={articles.length !== totalResults}
         loader={<Loader />}
       >
