@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 64,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Richard Restak",
+            "title": "81-year-old neuroscientist follows these 7 'brain rules' to keep his memory 'sharp as a whip' - CNBC",
+            "description": "Neuroscientist Richard Restak has spent decades studying how to enhance brain health and memory. Here's how he stays mentally sharp at 81 years old.",
+            "url": "https://www.cnbc.com/2023/02/02/81-year-old-neuroscience-shares-brain-rules-that-keep-his-memory-sharp-as-a-whip.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187616-1675288127676-Feature_Image_16x9.jpg?v=1675352511&w=1920&h=1080",
+            "publishedAt": "2023-02-02T15:41:51Z",
+            "content": "Like any other part of your body, your brain needs daily exercise. Neglecting your brain health can make you vulnerable to degenerative brain diseases like Alzheimer's and other forms of dementia.\r\nA… [+5112 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MIKE STOBBE AP Medical Writer",
+            "title": "Eye drops linked to US drug-resistant bacteria outbreak - ABC News",
+            "description": "U.S. health officials are advising people to stop using over-the-counter eye drops that have been linked to an outbreak of drug-resistant infections",
+            "url": "https://abcnews.go.com/US/wireStory/eye-drops-linked-us-drug-resistant-bacteria-outbreak-96849189",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_4572be6da44f4fab4e0f691f5e37e3ed_16x9_992.jpg",
+            "publishedAt": "2023-02-02T15:33:34Z",
+            "content": "NEW YORK -- U.S. health officials are advising people to stop using over-the-counter eye drops that have been linked to an outbreak of drug-resistant infections.\r\nThe Centers for Disease Control and … [+2457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "How does an infection develop into long COVID? | DW News - DW News",
+            "description": "Scientists in the UK are trying to piece together the puzzle surrounding long-COVID - trying to find out why people suffer from the effects of COVID months o...",
+            "url": "https://www.youtube.com/watch?v=7ZF6XS2cpiw",
+            "urlToImage": "https://i.ytimg.com/vi/7ZF6XS2cpiw/maxresdefault.jpg",
+            "publishedAt": "2023-02-02T15:32:25Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Heart Disease Breakthrough: New Immune Target Discovered - SciTechDaily",
+            "description": "Research has identified suPAR as a protein that contributes to the development of atherosclerosis and kidney disease, offering new opportunities for treatment. Traditionally, clinicians have approached the treatment of cardiovascular disease by controlling di…",
+            "url": "https://scitechdaily.com/heart-disease-breakthrough-new-immune-target-discovered/",
+            "urlToImage": "https://scitechdaily.com/images/Human-Heart-Inflammation-Disease.jpg",
+            "publishedAt": "2023-02-02T14:45:54Z",
+            "content": "Heart disease, also known as cardiovascular disease, is a leading cause of death worldwide. It refers to a group of conditions that affect the heart and blood vessels, including coronary artery disea… [+7556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Emily Stearn",
+            "title": "How cancer can make you speak in an IRISH accent: American man who had never visited the isle - Daily Mail",
+            "description": "Medics in North Carolina diagnosed the man in his 50s with the extraordinarily rare foreign accent syndrome (FAS). He had been battling an advanced form of prostate cancer for close to two years.",
+            "url": "https://www.dailymail.co.uk/health/article-11704989/How-cancer-make-speak-IRISH-accent-American-man-never-visited-isle.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/02/13/67251531-0-image-a-12_1675343985223.jpg",
+            "publishedAt": "2023-02-02T14:01:26Z",
+            "content": "A cancer-stricken man woke up to find he suddenly had an Irish accent despite never having been to the country. \r\nThe American had been battling an advanced form of prostate cancer for close to two y… [+7311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jamie Davis Smith",
+            "title": "Why do doctors always ask about your last menstrual period? Experts explain. - Yahoo Life",
+            "description": "Experts say periods can reveal much more about a woman’s health than whether or not she’s pregnant.",
+            "url": "https://www.yahoo.com/lifestyle/why-doctors-ask-about-last-menstrual-period-140047622.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/beJWhfu3stK0LM0YPvHGhA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/0b618290-a1d1-11ed-bd9a-e9f8aaa38c12",
+            "publishedAt": "2023-02-02T14:00:47Z",
+            "content": "Your period can reveal a lot about your health. (Getty Images)\r\nNo matter what brings a woman to the doctors office, she can expect one question without fail: When was the first day of your last mens… [+5609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatthis.com"
+            },
+            "author": "Alexa Mellardo",
+            "title": "4 Kettlebell Exercises To Get Rid of 'Moobs' as You Age - Eat This, Not That",
+            "description": "A fitness professional shares four kettlebell exercises to get rid of moobs as you age that will strengthen your chest.",
+            "url": "https://www.eatthis.com/kettlebell-exercises-get-rid-of-moobs/",
+            "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/01/fitness-man-holding-kettlebell.jpg?quality=82&strip=all",
+            "publishedAt": "2023-02-02T12:00:38Z",
+            "content": "Most gym enthusiasts have one particular area of their body that's their main focus. For some individuals, it's a thick waist. Others spend a solid amount of time strengthening flabby arms. Another f… [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Meeri Kim",
+            "title": "Lower your risk for dementia by spending time in nature - The Washington Post",
+            "description": "Older adults who lived in an area with more green space had a lower rate of hospitalization for some diseases and dementias, a large study showed.",
+            "url": "https://www.washingtonpost.com/wellness/2023/02/02/dementia-nature-green-space/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DWDH2PPIVVFYJCDAYPE26XFMXE.jpg&w=1440",
+            "publishedAt": "2023-02-02T11:02:37Z",
+            "content": "Comment on this story\r\nRichard Sima will return next week.\r\nSpending time in nature even as little as two hours a week has been linked to several health benefits.\r\nIt seems to support healthy aging a… [+7197 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Living near a ‘food swamp’ could raise stroke risk in adults 50 and older: research - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMijwFodHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9lcXVpbGlicml1bS1zdXN0YWluYWJpbGl0eS8zODQwNDQ0LWxpdmluZy1uZWFyLWEtZm9vZC1zd2FtcC1jb3VsZC1yYWlzZS1zdHJva2Utcmlzay1pbi1hZHVsdHMtNTAtYW5kLW9sZGVyLXJlc2VhcmNoL9IBkwFodHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9lcXVpbGlicml1bS1zdXN0YWluYWJpbGl0eS8zODQwNDQ0LWxpdmluZy1uZWFyLWEtZm9vZC1zd2FtcC1jb3VsZC1yYWlzZS1zdHJva2Utcmlzay1pbi1hZHVsdHMtNTAtYW5kLW9sZGVyLXJlc2VhcmNoL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-02T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lindsey Bever",
+            "title": "A smartphone app may help detect stroke symptoms, research shows - The Washington Post",
+            "description": "Researchers have developed an app called FAST AI to detect the most common stroke symptoms. Experts said the app should be used as an educational, not diagnostic, tool.",
+            "url": "https://www.washingtonpost.com/wellness/2023/02/02/stroke-smartphone-app/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z4E74I25S5BBZEKSUFGC22NLSI.jpg&w=1440",
+            "publishedAt": "2023-02-02T10:04:53Z",
+            "content": "Comment on this story\r\nSmartphone technology can detect heart irregularities and listen to a cough to help flag potential health problems. Soon, it may be able to helpidentifysymptoms of a stroke.\r\nS… [+6829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fatherly"
+            },
+            "author": "Sofia Quaglia",
+            "title": "How Much Testosterone Do Men Need? A New Study Sparks A Fiery Debate - Fatherly",
+            "description": "Some doctors question a new proposed age-based cutoff for low T that would allow many more men in their 20s, 30s, and 40s to get testosterone treatment.",
+            "url": "https://www.fatherly.com/health/study-argues-low-testosterone-men-way-more-common-than-think-other-experts-disagree",
+            "urlToImage": "https://imgix.bustle.com/uploads/image/2023/1/31/d7dfc8f0-65e1-40db-bf88-a51941237613-gettyimages-1328908435.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.5067&fp-y=0.596",
+            "publishedAt": "2023-02-02T10:00:25Z",
+            "content": "Trouble getting pregnant, fatigue, erectile dysfunction, and hair loss are all common symptoms of low testosterone. Ads from a booming testosterone industry remind us of this constantly, as do food a… [+7352 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Janelle Chavez",
+            "title": "Complications during pregnancy linked to a higher risk of heart disease, study finds - CNN",
+            "description": "Five major pregnancy complications are strong lifelong risk factors for ischemic heart disease, a new study finds, with the greatest risk coming in the decade after delivery.",
+            "url": "https://www.cnn.com/2023/02/01/health/pregnancy-complications-heart-disease/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230201113301-04-pregnant-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-01T23:33:00Z",
+            "content": "Five major pregnancy complications are strong lifelong risk factors for ischemic heart disease, a new study finds, with the greatest risk coming in the decade after delivery.\r\nIschemic heart disease … [+6274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SheFinds"
+            },
+            "author": "Marissa Matozzo",
+            "title": "A Nutritionist Tells Us How To Reduce Visceral Fat - Yahoo Life",
+            "description": "This article has been updated since its initial publish date with more expert insight. While some weight gain is not all bad and even sometimes necessary for...",
+            "url": "https://www.shefinds.com/collections/sneaky-carbs-avoid-visceral-fat/",
+            "urlToImage": "https://media.zenfs.com/en/shefinds_255/d36447ecfea8c88df541f5d4f67d62d7",
+            "publishedAt": "2023-02-01T23:30:48Z",
+            "content": "This article has been updated since its initial publish date with more expert insight. \r\nWhile some weight gain is not all bad and even sometimes necessary for our health, visceral fat is another mat… [+3614 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Ultra-processed food consumption linked to higher risk of death from ovarian, breast cancers: new study - Fox News",
+            "description": "A new study from Imperial's School of Public Health in London found that diets high in ultra-processed foods may elevate the risks of various types of cancer. Here's what to know.",
+            "url": "https://www.foxnews.com/health/ultra-processed-food-consumption-linked-higher-risk-death-ovarian-breast-cancers-study",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/34cbf01d-ultraprocessed_istock.jpg",
+            "publishedAt": "2023-02-01T23:29:00Z",
+            "content": "Diets high in ultra-processed foods may elevate the risk of developing and dying from various types of cancers, according to a new study from Imperials School of Public Health in London.\r\nUltra-proce… [+3884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Meghan Holohan",
+            "title": "Woman, 36, details rare cervical cancer diagnosis while pregnant with 1st child - Yahoo News",
+            "description": "Bethany Hart was diagnosed with small cell cervical cancer, a rare, aggressive type, while pregnant with first child, who died. She hopes to raise awareness.",
+            "url": "https://news.yahoo.com/woman-36-details-rare-cervical-225908623.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iCe541dVaNqWPBeBOsYXoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjAw/https://media.zenfs.com/en/nbc_today_217/97e386828f632630ae511c43d4529d80",
+            "publishedAt": "2023-02-01T22:59:08Z",
+            "content": "During one of Bethany Harts early examinations while pregnant, she underwent a routine Pap smear and learned the results were abnormal. At the time, the then-30-year-old was about 10 weeks along, and… [+8123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Hazel Flight",
+            "title": "Magnesium: Everything you need to know about this important micronutrient - Salon",
+            "description": "While most of us aren’t getting enough magnesium, supplements may not be necessary.",
+            "url": "https://www.salon.com/2023/02/01/magnesium-everything-you-need-to-know-about-this-important-micronutrient_partner/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/02/magnesium_foods_1319902998.jpg",
+            "publishedAt": "2023-02-01T22:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Babies Remember Faces Despite Face Masks - Neuroscience News",
+            "description": "6 to 9-month-old babies can form memories of masked faces and recognize the faces when the mask is removed.",
+            "url": "https://neurosciencenews.com/babies-mask-facial-recognition-22421/",
+            "urlToImage": "https://neurosciencenews.com/files/2023/02/facemask-baby-recognition-neurosinces-public.jpg",
+            "publishedAt": "2023-02-01T22:11:47Z",
+            "content": "Summary: 6 to 9-month-old babies can form memories of masked faces and recognize the faces when the mask is removed.\r\nSource: UC Davis\r\nBabies learn from looking at human faces, leading many parents … [+4198 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "A Breathtaking Discovery | NEJM - nejm.org",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiNGh0dHBzOi8vd3d3Lm5lam0ub3JnL2RvaS9mdWxsLzEwLjEwNTYvTkVKTWNwczIyMDkwNTfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-01T22:04:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Humoral Innate Immunity and Acute-Phase Proteins | NEJM - nejm.org",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3Lm5lam0ub3JnL2RvaS9mdWxsLzEwLjEwNTYvTkVKTXJhMjIwNjM0NtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-01T22:04:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theepochtimes.com"
+            },
+            "author": "Dr. Hu Naiwen",
+            "title": "3 Main Causes of Hypertension, 3 Ways to Lower Blood Pressure Without Taking Medicine - The Epoch Times",
+            "description": "Hypertension is sometimes called a “silent killer,” and is feared by many. According to the 2017 American Heart Association guidelines, when blood pressure is measured during a tranquil, unagitated state and reads high more than three times within two consecu…",
+            "url": "https://www.theepochtimes.com/health/3-main-causes-of-hypertension-3-ways-to-lower-blood-pressure-without-taking-medicine_5021116.html",
+            "urlToImage": "https://img.theepochtimes.com/assets/uploads/2023/01/31/blood-pressure--1200x800.jpeg",
+            "publishedAt": "2023-02-01T22:01:56Z",
+            "content": "Hypertension is sometimes called a silent killer, and is feared by many. According to the 2017 American Heart Association guidelines, when blood pressure is measured during a tranquil, unagitated sta… [+6608 chars]"
+        }
+    ]
+}

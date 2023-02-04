@@ -12,11 +12,12 @@ import {
 const App = (props) => {
   const apiKey = process.env.REACT_APP_NEWS_API;
   const [progress, setProgress] = useState(0)
+  console.log(progress);
   return (
     <div>
       <Router>
         <Navbar />
-        <LoadingBar color='#f11946' progress={progress} />
+        <LoadingBar color='#f11946' progress={progress} onLoaderFinished={() => setProgress(0)} />
         <Switch>
           <Route exact path="/business"><News apiKey={apiKey} setProgress={setProgress} key={'business'} pageSize={20} country={'us'} category={'business'} badgeColor={'light text-dark border border-dark'} /></Route>
           <Route exact path="/entertainment"><News apiKey={apiKey} setProgress={setProgress} key={'entertainment'} pageSize={20} country={'us'} category={'entertainment'} badgeColor={'success'} /></Route>
